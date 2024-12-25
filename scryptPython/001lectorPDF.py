@@ -5,13 +5,17 @@ text_elements = pdf.pq('LTTextLineHorizontal')
 text = [t.text for t in text_elements]
 print(text)
 
-i=0
+a,b=0,0
 dim=len(text)
 
-for i in range(dim):
-    print(len(text))
-    if text[i]=='':
-        text.pop(i)
-        dim=len(text)
-    
+while True:
+    try:
+        for a in range (dim):
+            print(len(text))
+            if text[a]=='' or text[a]==' ':
+                text.pop(a)
+        break
+    except IndexError:
+        b=b+1
+        print(f'Fin iteración:\t{b}')
 print(text)
