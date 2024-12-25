@@ -1,0 +1,14 @@
+Read:Blower Hours
+50825,3
+Read:Operational Hours
+48949,9
+Read:Real Time Clock
+05:44:33 , 06/25/2024
+Read:Charger Limit
+100,0
+Read:Detach.Batt Info
+Capacity=76%,V=16084mV,I=569mA,T=18C,SH=76%,CC=436,CF=0,ME=1,S/N=0080CC8B,BD=04/14/2012
+Read:Intern.Batt Info
+Capacity=75%,V=16025mV,I=1413mA,T=20C,SH=85%,CC=57,CF=0,ME=1,S/N=00102513,BD=08/21/2010,SM=Standby
+Read:Device Info
+S/N=TV010110111,M/N=1040000,Name=Trilogy 202, International

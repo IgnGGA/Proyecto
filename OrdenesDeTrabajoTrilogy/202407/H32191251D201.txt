@@ -1,0 +1,658 @@
+----------------------------------------------------------------------------------------------------------
+Serial Number :  H32191251D201
+Event log time stamp is in 24 hour UTC format
+LOG ID 19 (Error Log with Text Descriptions)
+----------------------------------------------------------------------------------------------------------
+
+E: 0139 @ 11:43:38,11/04/21  DEBUG       EVT_THERAPY_STATUS                            [U] Ventilator OFF
+E: 0063 @ 11:43:39,11/04/21  DEBUG       EVT_DEBUG                                     [T] Event Log Erased
+E: 0063 @ 11:43:39,11/04/21  DEBUG       EVT_DEBUG                                     [T] PushReply Failure 1073741825:1073762286:CreateTransferManager
+E: 0108 @ 11:43:39,11/04/21  DEBUG       EVT_CALIBRATION_MODE                          [T] EXIT CAL MODE
+E: 0139 @ 11:43:39,11/04/21  DEBUG       EVT_THERAPY_STATUS                            [U] Ventilator OFF
+E: 0139 @ 11:43:39,11/04/21  DEBUG       EVT_THERAPY_STATUS                            [U] Ventilator OFF
+E: 0191 @ 11:43:39,11/04/21  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0139 @ 11:43:39,11/04/21  DEBUG       EVT_THERAPY_STATUS                            [U] Ventilator OFF
+E: 0139 @ 11:43:39,11/04/21  DEBUG       EVT_THERAPY_STATUS                            [U] Ventilator OFF
+E: 0108 @ 11:43:39,11/04/21  DEBUG       EVT_CALIBRATION_MODE                          [T] ENTER CAL MODE
+E: 0108 @ 11:43:39,11/04/21  DEBUG       EVT_CALIBRATION_MODE                          [T] EXIT CAL MODE
+E: 0191 @ 11:43:39,11/04/21  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0108 @ 11:43:39,11/04/21  DEBUG       EVT_CALIBRATION_MODE                          [T] ENTER CAL MODE
+E: 0108 @ 11:43:39,11/04/21  DEBUG       EVT_CALIBRATION_MODE                          [T] EXIT CAL MODE
+E: 0191 @ 11:43:39,11/04/21  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0058 @ 11:43:47,11/04/21  DEBUG       EVT_LI_ION_BATT_SHUTDOWN                      [P] BattShtDwnSuccess-Batt[1]Connect=1 PwrSrc=3 ChgDisable=1
+E: 0058 @ 11:43:47,11/04/21  DEBUG       EVT_LI_ION_BATT_SHUTDOWN                      [P] BattShtDwnSuccess-Batt[1] Time(msecs)=7000 ADC(mv)=459 Ping=0
+E: 0058 @ 11:43:48,11/04/21  DEBUG       EVT_LI_ION_BATT_SHUTDOWN                      [P] BattShtDwnSuccess-Batt[0]Connect=1 PwrSrc=3 ChgDisable=1
+E: 0058 @ 11:43:48,11/04/21  DEBUG       EVT_LI_ION_BATT_SHUTDOWN                      [P] BattShtDwnSuccess-Batt[0] Time(msecs)=7500 ADC(mv)=366 Ping=0
+E: 0019 @ 19:09:14,06/16/23  DEBUG       EVT_POWER_UP_SYSTEM_INIT                      [T] Release Build: 1.05.02.00 TPY[R_PP1]1.05.02.00
+E: 0063 @ 19:09:14,06/16/23  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0063 @ 19:09:14,06/16/23  DEBUG       EVT_DEBUG                                     [T] 3v3s1:3289 BusV:20737 3v3s2:3310 3v3s3:3293 5vs1:5001
+E: 0063 @ 19:09:17,06/16/23  DEBUG       EVT_DEBUG                                     [T] 3v3s4:3310
+E: 0353 @ 19:09:18,06/16/23  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0019 @ 19:09:18,06/16/23  DEBUG       EVT_POWER_UP_SYSTEM_INIT                      [P] Release Build: 1.05.02.00 PWR[R_PP1]1.05.02.00
+E: 0353 @ 19:09:18,06/16/23  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0019 @ 19:09:18,06/16/23  DEBUG       EVT_POWER_UP_SYSTEM_INIT                      [P] Release Build: 1.05.02.00 PWR[R_PP1]1.05.02.00
+E: 0041 @ 19:09:18,06/16/23  TECHNICAL   EVT_AC_CONNECTED                              [P] AC=20486mV NumUsblSrcs=1 ExtDc=0% Det=0%(0C) Int=0%(0C)
+E: 0087 @ 19:09:18,06/16/23  DEBUG       EVT_INTERNAL_BATT_CONNECTED                   [P] PwrSrc=None NumUsableSrcs=1 ADCVoltage(mV)=15875
+E: 0137 @ 19:09:19,06/16/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] SN=210416100468 RSOC=94 FCC=7646 RemCap=7115 Cycles=1 Health=100
+E: 0137 @ 19:09:19,06/16/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattV=16061 BattI=0 ChgV=16400 ChgI=2000 Temp=147 MaxErr=1
+E: 0137 @ 19:09:19,06/16/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattStat=00c0 ChgStat=000204 SftStat=00000000 OpStat=00020307
+E: 0137 @ 19:09:19,06/16/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] TS1=147 TS2=-547 FW=BD16
+E: 0063 @ 19:09:19,06/16/23  DEBUG       EVT_DEBUG                                     [P] Int Batt Wakeup Time=1sec DetBattV=15802mV IntBattV=15872mV
+E: 0136 @ 19:09:19,06/16/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] SN=201014000168 RSOC=94 FCC=7586 RemCap=7108 Cycles=1 Health=100
+E: 0136 @ 19:09:19,06/16/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattV=16098 BattI=0 ChgV=16400 ChgI=2000 Temp=160 MaxErr=1
+E: 0136 @ 19:09:19,06/16/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattStat=00c0 ChgStat=000204 SftStat=00000000 OpStat=00020307
+E: 0136 @ 19:09:19,06/16/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] TS1=160 TS2=-552 FW=BD16
+E: 0063 @ 19:09:21,06/16/23  DEBUG       EVT_DEBUG                                     [U] Clock time adjusted +50916295 seconds.
+E: 0063 @ 19:09:21,06/16/23  DEBUG       EVT_DEBUG                                     [T] RIPC CON Therapy->UI 0,16,136
+E: 0359 @ 19:09:21,06/16/23  DEBUG       EVT_SW_VERSION                                [T] 1.05.02.00::LINUX[3.14.26.11-svn120101]::UI[release]1.05.02.00::
+E: 0359 @ 19:09:21,06/16/23  DEBUG       EVT_SW_VERSION                                [T] TPY[R_PP1]1.05.02.0::TPYBM[0.00.05]::
+E: 0359 @ 19:09:21,06/16/23  DEBUG       EVT_SW_VERSION                                [T] PWR[R_PP1]1.05.02.00::PWRBM[0.00.05]
+E: 0023 @ 19:09:23,06/16/23  DEBUG       EVT_PROCESS_STARTUP                           [U] Supervisor
+E: 0023 @ 19:09:23,06/16/23  DEBUG       EVT_PROCESS_STARTUP                           [U] Dispatcher
+E: 0023 @ 19:09:23,06/16/23  DEBUG       EVT_PROCESS_STARTUP                           [U] RIPC_Peer
+E: 0023 @ 19:09:23,06/16/23  DEBUG       EVT_PROCESS_STARTUP                           [U] DataLogger
+E: 0023 @ 19:09:23,06/16/23  DEBUG       EVT_PROCESS_STARTUP                           [U] CryptoManager
+E: 0023 @ 19:09:23,06/16/23  DEBUG       EVT_PROCESS_STARTUP                           [U] PeripheralManager
+E: 0023 @ 19:09:23,06/16/23  DEBUG       EVT_PROCESS_STARTUP                           [U] AccessoryManager
+E: 0023 @ 19:09:23,06/16/23  DEBUG       EVT_PROCESS_STARTUP                           [U] UserInterface
+E: 0023 @ 19:09:23,06/16/23  DEBUG       EVT_PROCESS_STARTUP                           [U] Reporting
+E: 0023 @ 19:09:23,06/16/23  DEBUG       EVT_PROCESS_STARTUP                           [U] ConfigurationManager
+E: 0023 @ 19:09:23,06/16/23  DEBUG       EVT_PROCESS_STARTUP                           [U] BluetoothComm
+E: 0350 @ 19:09:23,06/16/23  DEBUG       EVT_SLEEP_EXIT                                [P] Event=0x4168 PwrSrc=3 NumUsableSrcs=3 SuprCap=941mV PwrFail=8818mV
+E: 0350 @ 19:09:23,06/16/23  DEBUG       EVT_SLEEP_EXIT                                [P] AC=20493mV Ext=3mV(0%) Det=15808mV(94%) Int=15874mV(94%)
+E: 0063 @ 19:09:24,06/16/23  DEBUG       EVT_DEBUG                                     [U] eMMC Ext. CSD, PRE_EOL: 1 TYP_A: 1 TYP_B: 1
+E: 0063 @ 19:09:24,06/16/23  DEBUG       EVT_DEBUG                                     [U] UiBist thread starting
+E: 0063 @ 19:09:25,06/16/23  DEBUG       EVT_DEBUG                                     [U] BIST ADCs - 5V: 1682 3.3V: 1130 1.8V: 2037 6V: 2037 BL: 980
+E: 0192 @ 13:08:38,06/19/23  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 13:08:38,06/19/23  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0063 @ 13:08:38,06/19/23  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 2
+E: 0192 @ 13:08:40,06/19/23  DEBUG       EVT_KEY_PRESS                                 [T] Audio Pause Key Pressed
+E: 0190 @ 13:08:40,06/19/23  DEBUG       EVT_AUDIO_PAUSE                               [T] Audio Pause Initiated
+E: 0241 @ 13:09:43,06/19/23  DEVICE_SETTINGS  EVT_SETTINGS_CHANGE                           [T] Setting Language 0 -> 1
+E: 0241 @ 13:09:52,06/19/23  DEVICE_SETTINGS  EVT_SETTINGS_CHANGE                           [T] Setting Local Time Offset 0 -> -13320
+E: 0192 @ 13:10:06,06/19/23  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 13:10:07,06/19/23  DEBUG       EVT_THERAPY_STATUS                            [U] Ventilator OFF
+E: 0063 @ 13:10:07,06/19/23  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 0
+E: 0192 @ 13:44:24,06/19/23  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 13:44:24,06/19/23  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0063 @ 13:44:24,06/19/23  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 2
+E: 0298 @ 13:45:09,06/19/23  TECHNICAL   EVT_USB_CONNECTED                             [U] Bus: 1 Vid: abcd Pid: 1234
+E: 0139 @ 13:45:13,06/19/23  DEBUG       EVT_THERAPY_STATUS                            [U] SW Upgrade
+E: 0063 @ 13:45:13,06/19/23  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 6
+E: 0346 @ 13:46:43,06/19/23  TECHNICAL   EVT_SW_UPGRADE_STARTED                        [Upgrading] to version 1.06.05.00
+E: 0020 @ 13:48:41,06/19/23  DEBUG       EVT_SOFTWARE_SYSTEM_INITIALIZATION            [T] Release Build: 1.06.05.00 TPY[R_PP1]1.06.05.00
+E: 0063 @ 13:48:41,06/19/23  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0063 @ 13:48:41,06/19/23  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0063 @ 13:48:41,06/19/23  DEBUG       EVT_DEBUG                                     [T] RIPC CON Therapy->UI 0,16,16
+E: 0359 @ 13:48:41,06/19/23  DEBUG       EVT_SW_VERSION                                [T] 1.06.05.00::LINUX[3.14.26.11-svn120101]::UI[release]1.05.02.00::
+E: 0359 @ 13:48:41,06/19/23  DEBUG       EVT_SW_VERSION                                [T] TPY[R_PP1]1.06.05.0::TPYBM[0.00.05]::
+E: 0359 @ 13:48:41,06/19/23  DEBUG       EVT_SW_VERSION                                [T] PWRBM[0.00.05]
+E: 0063 @ 13:48:41,06/19/23  DEBUG       EVT_DEBUG                                     [T] 3v3s1:3289 BusV:20658 3v3s2:3310 3v3s3:3289 5vs1:4997
+E: 0168 @ 13:48:43,06/19/23  DEBUG       EVT_MACHFLOW_ERR                              [T] C:1 O:0 R:0 M:0.00
+E: 0174 @ 13:48:43,06/19/23  DEBUG       EVT_PILRESS_ERR                               [T] C:1 O:0 R:0 M:-0.43
+E: 0175 @ 13:48:43,06/19/23  DEBUG       EVT_PPROX_ERR                                 [T] C:1 O:0 R:0 M:0.08
+E: 0063 @ 13:48:44,06/19/23  DEBUG       EVT_DEBUG                                     [T] 3v3s4:3305
+E: 0353 @ 13:48:45,06/19/23  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0185 @ 13:48:45,06/19/23  DEBUG       EVT_EXT_POWER_UP_SYSTEM_INIT                  [P] Release Build: 1.06.05.00 PWR[R_PP1]1.06.05.00
+E: 0041 @ 13:48:45,06/19/23  TECHNICAL   EVT_AC_CONNECTED                              [P] AC=20463mV NumUsblSrcs=1 ExtDc=0% Det=0%(0C) Int=0%(0C)
+E: 0087 @ 13:48:45,06/19/23  DEBUG       EVT_INTERNAL_BATT_CONNECTED                   [P] PwrSrc=None NumUsableSrcs=1 ADCVoltage(mV)=16055
+E: 0137 @ 13:48:45,06/19/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] SN=210416100468 RSOC=98 FCC=8083 RemCap=7909 Cycles=1 Health=100
+E: 0137 @ 13:48:45,06/19/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattV=16275 BattI=0 ChgV=16400 ChgI=0 Temp=258 MaxErr=1
+E: 0137 @ 13:48:45,06/19/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattStat=00e0 ChgStat=00c210 SftStat=00000000 OpStat=00000307
+E: 0137 @ 13:48:45,06/19/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] TS1=258 TS2=-547 FW=BD16
+E: 0063 @ 13:48:46,06/19/23  DEBUG       EVT_DEBUG                                     [P] Int Batt Wakeup Time=1sec DetBattV=16018mV IntBattV=16056mV
+E: 0136 @ 13:48:46,06/19/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] SN=201014000168 RSOC=99 FCC=7831 RemCap=7703 Cycles=1 Health=100
+E: 0136 @ 13:48:46,06/19/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattV=16277 BattI=0 ChgV=16400 ChgI=0 Temp=215 MaxErr=1
+E: 0136 @ 13:48:46,06/19/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattStat=00e0 ChgStat=00c204 SftStat=00000000 OpStat=00000307
+E: 0136 @ 13:48:46,06/19/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] TS1=215 TS2=-552 FW=BD16
+E: 0350 @ 13:48:50,06/19/23  DEBUG       EVT_SLEEP_EXIT                                [P] Event=0x4168 PwrSrc=3 NumUsableSrcs=3 SuprCap=4618mV PwrFail=8843mV
+E: 0350 @ 13:48:50,06/19/23  DEBUG       EVT_SLEEP_EXIT                                [P] AC=20475mV Ext=30mV(0%) Det=16021mV(98%) Int=16055mV(99%)
+E: 0347 @ 13:49:00,06/19/23  TECHNICAL   EVT_SW_UPGRADE_PERFORMED                      [Successfully] upgraded
+E: 0020 @ 13:49:06,06/19/23  DEBUG       EVT_SOFTWARE_SYSTEM_INITIALIZATION            [T] Release Build: 1.06.05.00 TPY[R_PP1]1.06.05.00
+E: 0063 @ 13:49:06,06/19/23  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0063 @ 13:49:06,06/19/23  DEBUG       EVT_DEBUG                                     [T] 3v3s1:3286 BusV:20649 3v3s2:3308 3v3s3:3285 5vs1:5001
+E: 0063 @ 13:49:09,06/19/23  DEBUG       EVT_DEBUG                                     [T] 3v3s4:3307
+E: 0353 @ 13:49:10,06/19/23  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0185 @ 13:49:10,06/19/23  DEBUG       EVT_EXT_POWER_UP_SYSTEM_INIT                  [P] Release Build: 1.06.05.00 PWR[R_PP1]1.06.05.00
+E: 0353 @ 13:49:10,06/19/23  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0185 @ 13:49:10,06/19/23  DEBUG       EVT_EXT_POWER_UP_SYSTEM_INIT                  [P] Release Build: 1.06.05.00 PWR[R_PP1]1.06.05.00
+E: 0041 @ 13:49:10,06/19/23  TECHNICAL   EVT_AC_CONNECTED                              [P] AC=20476mV NumUsblSrcs=1 ExtDc=0% Det=0%(0C) Int=0%(0C)
+E: 0087 @ 13:49:10,06/19/23  DEBUG       EVT_INTERNAL_BATT_CONNECTED                   [P] PwrSrc=None NumUsableSrcs=1 ADCVoltage(mV)=16048
+E: 0137 @ 13:49:11,06/19/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] SN=210416100468 RSOC=98 FCC=8083 RemCap=7909 Cycles=1 Health=100
+E: 0137 @ 13:49:11,06/19/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattV=16278 BattI=0 ChgV=16400 ChgI=0 Temp=258 MaxErr=1
+E: 0137 @ 13:49:11,06/19/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattStat=00e0 ChgStat=00c210 SftStat=00000000 OpStat=00000307
+E: 0137 @ 13:49:11,06/19/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] TS1=258 TS2=-547 FW=BD16
+E: 0063 @ 13:49:11,06/19/23  DEBUG       EVT_DEBUG                                     [P] Int Batt Wakeup Time=1sec DetBattV=16006mV IntBattV=16048mV
+E: 0136 @ 13:49:11,06/19/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] SN=201014000168 RSOC=99 FCC=7831 RemCap=7703 Cycles=1 Health=100
+E: 0136 @ 13:49:11,06/19/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattV=16277 BattI=0 ChgV=16400 ChgI=0 Temp=215 MaxErr=1
+E: 0136 @ 13:49:11,06/19/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattStat=00e0 ChgStat=00c204 SftStat=00000000 OpStat=00000307
+E: 0136 @ 13:49:11,06/19/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] TS1=215 TS2=-552 FW=BD16
+E: 0063 @ 13:49:14,06/19/23  DEBUG       EVT_DEBUG                                     [U] Clock time adjusted +10 seconds.
+E: 0063 @ 13:49:14,06/19/23  DEBUG       EVT_DEBUG                                     [T] RIPC CON Therapy->UI 0,1206,472
+E: 0359 @ 13:49:14,06/19/23  DEBUG       EVT_SW_VERSION                                [T] 1.06.05.00::LINUX[3.14.26.12-svn122863]::UI[release]1.06.05.00::
+E: 0359 @ 13:49:14,06/19/23  DEBUG       EVT_SW_VERSION                                [T] TPY[R_PP1]1.06.05.0::TPYBM[0.00.05]::
+E: 0359 @ 13:49:14,06/19/23  DEBUG       EVT_SW_VERSION                                [T] PWR[R_PP1]1.06.05.00::PWRBM[0.00.05]
+E: 0350 @ 13:49:15,06/19/23  DEBUG       EVT_SLEEP_EXIT                                [P] Event=0x4168 PwrSrc=3 NumUsableSrcs=3 SuprCap=4618mV PwrFail=8841mV
+E: 0350 @ 13:49:15,06/19/23  DEBUG       EVT_SLEEP_EXIT                                [P] AC=20460mV Ext=30mV(0%) Det=16009mV(98%) Int=16045mV(99%)
+E: 0063 @ 13:49:16,06/19/23  DEBUG       EVT_DEBUG                                     [U] eMMC Ext. CSD, PRE_EOL: 1 TYP_A: 1 TYP_B: 1
+E: 0063 @ 13:49:16,06/19/23  DEBUG       EVT_DEBUG                                     [U] UiBist thread starting
+E: 0023 @ 13:49:17,06/19/23  DEBUG       EVT_PROCESS_STARTUP                           [U] Supervisor
+E: 0023 @ 13:49:17,06/19/23  DEBUG       EVT_PROCESS_STARTUP                           [U] Dispatcher
+E: 0023 @ 13:49:17,06/19/23  DEBUG       EVT_PROCESS_STARTUP                           [U] RIPC_Peer
+E: 0023 @ 13:49:17,06/19/23  DEBUG       EVT_PROCESS_STARTUP                           [U] DataLogger
+E: 0023 @ 13:49:17,06/19/23  DEBUG       EVT_PROCESS_STARTUP                           [U] CryptoManager
+E: 0023 @ 13:49:17,06/19/23  DEBUG       EVT_PROCESS_STARTUP                           [U] PeripheralManager
+E: 0023 @ 13:49:17,06/19/23  DEBUG       EVT_PROCESS_STARTUP                           [U] AccessoryManager
+E: 0023 @ 13:49:17,06/19/23  DEBUG       EVT_PROCESS_STARTUP                           [U] UserInterface
+E: 0023 @ 13:49:17,06/19/23  DEBUG       EVT_PROCESS_STARTUP                           [U] Reporting
+E: 0023 @ 13:49:17,06/19/23  DEBUG       EVT_PROCESS_STARTUP                           [U] ConfigurationManager
+E: 0023 @ 13:49:17,06/19/23  DEBUG       EVT_PROCESS_STARTUP                           [U] Trends
+E: 0063 @ 13:49:17,06/19/23  DEBUG       EVT_DEBUG                                     [U] BIST ADCs - 5V: 1679 3.3V: 1133 1.8V: 2038 6V: 2040 BL: 983
+E: 0023 @ 13:49:17,06/19/23  DEBUG       EVT_PROCESS_STARTUP                           [U] BluetoothComm
+E: 0298 @ 13:49:20,06/19/23  TECHNICAL   EVT_USB_CONNECTED                             [U] Bus: 1 Vid: abcd Pid: 1234
+E: 0299 @ 13:49:49,06/19/23  TECHNICAL   EVT_USB_DISCONNECTED                          [U] Bus: 1 Vid: abcd Pid: 1234
+E: 0192 @ 13:49:50,06/19/23  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 13:49:50,06/19/23  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0063 @ 13:49:50,06/19/23  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 2
+E: 0192 @ 13:50:15,06/19/23  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 13:50:15,06/19/23  DEBUG       EVT_THERAPY_STATUS                            [U] Ventilator OFF
+E: 0063 @ 13:50:16,06/19/23  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 0
+E: 0192 @ 14:33:24,06/19/23  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 14:33:24,06/19/23  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0063 @ 14:33:24,06/19/23  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 2
+E: 0139 @ 14:33:54,06/19/23  DEBUG       EVT_THERAPY_STATUS                            [U] Therapy
+E: 0063 @ 14:33:54,06/19/23  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 3
+E: 0233 @ 14:34:41,06/19/23  PRESET      EVT_PRESET_CHANGE                             [T] Preset 1 IPAP Pressure 1500 -> 2500
+E: 0192 @ 14:35:05,06/19/23  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 14:35:06,06/19/23  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0063 @ 14:35:06,06/19/23  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 2
+E: 0233 @ 14:35:22,06/19/23  PRESET      EVT_PRESET_CHANGE                             [T] Preset 1 IPAP Pressure 2500 -> 1500
+E: 0139 @ 14:37:49,06/19/23  DEBUG       EVT_THERAPY_STATUS                            [U] Maneuver
+E: 0333 @ 14:37:55,06/19/23  TECHNICAL   EVT_CALIBRATION_EVENT                         [Circuit] Calibration Compliance Pass
+E: 0063 @ 14:37:55,06/19/23  DEBUG       EVT_DEBUG                                     [T] CktCalib-CalCompliance-COMPUTE-Pass: Compliance= 0.752114
+E: 0168 @ 14:38:12,06/19/23  DEBUG       EVT_MACHFLOW_ERR                              [T] C:0 O:1 R:0 M:260.00
+E: 0168 @ 14:38:13,06/19/23  DEBUG       EVT_MACHFLOW_ERR                              [T] C:0 O:1486 R:0 M:260.07
+E: 0139 @ 14:38:14,06/19/23  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0333 @ 14:38:14,06/19/23  TECHNICAL   EVT_CALIBRATION_EVENT                         [Circuit] Calibration Resistance Pass
+E: 0063 @ 14:38:14,06/19/23  DEBUG       EVT_DEBUG                                     [T] CktCalib-COMPUTE-Pass: m_nRt=0.000170, m_nRl=-0.005438
+E: 0192 @ 14:38:40,06/19/23  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 14:38:42,06/19/23  DEBUG       EVT_THERAPY_STATUS                            [U] Ventilator OFF
+E: 0063 @ 14:38:42,06/19/23  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 0
+E: 0042 @ 13:31:36,06/22/23  TECHNICAL   EVT_AC_DISCONNECTED                           [P] AC=9137mV NumUsblSrcs=2 ExtDc=0% Det=97%(262C) Int=98%(221C)
+E: 0024 @ 13:36:36,06/22/23  DEBUG       EVT_PROCESS_SHUTDOWN                          [U] Supervisor shutdown
+E: 0307 @ 13:36:35,06/22/23  DEBUG       EVT_SLEEP                                     [P] Normal Sleep PwrSrc=1 ExtCap=0 DetachCap=97% IntCap=98%
+E: 0307 @ 13:36:35,06/22/23  DEBUG       EVT_SLEEP                                     [P] Normal Sleep ADCExt=0mV ADCDet=15911mV ADCInt=16024mV
+E: 0307 @ 13:36:35,06/22/23  DEBUG       EVT_SLEEP                                     [P] Normal Sleep INT{TS1=222 TS2=-552} DET{TS1=263 TS2=-547}
+E: 0063 @ 13:36:35,06/22/23  DEBUG       EVT_DEBUG                                     [T] RIPC DIS Tpy->UI 0xFFFF 0,0,0 0,0,0,0
+E: 0019 @ 18:21:00,08/11/23  DEBUG       EVT_POWER_UP_SYSTEM_INIT                      [T] Release Build: 1.06.05.00 TPY[R_PP1]1.06.05.00
+E: 0063 @ 18:21:00,08/11/23  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0063 @ 18:21:00,08/11/23  DEBUG       EVT_DEBUG                                     [T] 3v3s1:3285 BusV:20668 3v3s2:3310 3v3s3:3295 5vs1:5001
+E: 0063 @ 18:21:03,08/11/23  DEBUG       EVT_DEBUG                                     [T] 3v3s4:3310
+E: 0353 @ 18:21:04,08/11/23  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0019 @ 18:21:04,08/11/23  DEBUG       EVT_POWER_UP_SYSTEM_INIT                      [P] Release Build: 1.06.05.00 PWR[R_PP1]1.06.05.00
+E: 0063 @ 18:21:04,08/11/23  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0353 @ 18:21:04,08/11/23  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0019 @ 18:21:04,08/11/23  DEBUG       EVT_POWER_UP_SYSTEM_INIT                      [P] Release Build: 1.06.05.00 PWR[R_PP1]1.06.05.00
+E: 0041 @ 18:21:04,08/11/23  TECHNICAL   EVT_AC_CONNECTED                              [P] AC=20495mV NumUsblSrcs=1 ExtDc=0% Det=0%(0C) Int=0%(0C)
+E: 0087 @ 18:21:04,08/11/23  DEBUG       EVT_INTERNAL_BATT_CONNECTED                   [P] PwrSrc=None NumUsableSrcs=1 ADCVoltage(mV)=15994
+E: 0137 @ 18:21:05,08/11/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] SN=210416100468 RSOC=98 FCC=7746 RemCap=7518 Cycles=1 Health=100
+E: 0137 @ 18:21:05,08/11/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattV=16193 BattI=0 ChgV=16400 ChgI=2000 Temp=160 MaxErr=1
+E: 0137 @ 18:21:05,08/11/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattStat=00c0 ChgStat=000204 SftStat=00000000 OpStat=00020307
+E: 0137 @ 18:21:05,08/11/23  DEBUG       EVT_DETACH_BATT_INFO                          [P] TS1=160 TS2=-547 FW=BD16
+E: 0063 @ 18:21:05,08/11/23  DEBUG       EVT_DEBUG                                     [P] Int Batt Wakeup Time=1sec DetBattV=15943mV IntBattV=16000mV
+E: 0136 @ 18:21:05,08/11/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] SN=201014000168 RSOC=98 FCC=7616 RemCap=7435 Cycles=1 Health=100
+E: 0136 @ 18:21:05,08/11/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattV=16205 BattI=0 ChgV=16400 ChgI=2000 Temp=171 MaxErr=1
+E: 0136 @ 18:21:05,08/11/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattStat=00c0 ChgStat=000204 SftStat=00000000 OpStat=00020307
+E: 0136 @ 18:21:05,08/11/23  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] TS1=171 TS2=-552 FW=BD16
+E: 0063 @ 18:21:07,08/11/23  DEBUG       EVT_DEBUG                                     [U] Clock time adjusted +4337067 seconds.
+E: 0063 @ 18:21:07,08/11/23  DEBUG       EVT_DEBUG                                     [T] RIPC CON Therapy->UI 0,24,136
+E: 0359 @ 18:21:07,08/11/23  DEBUG       EVT_SW_VERSION                                [T] 1.06.05.00::LINUX[3.14.26.12-svn122863]::UI[release]1.06.05.00::
+E: 0359 @ 18:21:07,08/11/23  DEBUG       EVT_SW_VERSION                                [T] TPY[R_PP1]1.06.05.0::TPYBM[0.00.05]::
+E: 0359 @ 18:21:07,08/11/23  DEBUG       EVT_SW_VERSION                                [T] PWR[R_PP1]1.06.05.00::PWRBM[0.00.05]
+E: 0139 @ 18:21:08,08/11/23  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0063 @ 18:21:09,08/11/23  DEBUG       EVT_DEBUG                                     [U] eMMC Ext. CSD, PRE_EOL: 1 TYP_A: 1 TYP_B: 1
+E: 0063 @ 18:21:09,08/11/23  DEBUG       EVT_DEBUG                                     [U] UiBist thread starting
+E: 0350 @ 18:21:09,08/11/23  DEBUG       EVT_SLEEP_EXIT                                [P] Event=0x4168 PwrSrc=3 NumUsableSrcs=3 SuprCap=983mV PwrFail=8824mV
+E: 0350 @ 18:21:09,08/11/23  DEBUG       EVT_SLEEP_EXIT                                [P] AC=20499mV Ext=6mV(0%) Det=15940mV(98%) Int=15998mV(98%)
+E: 0023 @ 18:21:10,08/11/23  DEBUG       EVT_PROCESS_STARTUP                           [U] Supervisor
+E: 0023 @ 18:21:10,08/11/23  DEBUG       EVT_PROCESS_STARTUP                           [U] Dispatcher
+E: 0023 @ 18:21:10,08/11/23  DEBUG       EVT_PROCESS_STARTUP                           [U] RIPC_Peer
+E: 0023 @ 18:21:10,08/11/23  DEBUG       EVT_PROCESS_STARTUP                           [U] DataLogger
+E: 0023 @ 18:21:10,08/11/23  DEBUG       EVT_PROCESS_STARTUP                           [U] CryptoManager
+E: 0023 @ 18:21:10,08/11/23  DEBUG       EVT_PROCESS_STARTUP                           [U] PeripheralManager
+E: 0023 @ 18:21:10,08/11/23  DEBUG       EVT_PROCESS_STARTUP                           [U] AccessoryManager
+E: 0023 @ 18:21:10,08/11/23  DEBUG       EVT_PROCESS_STARTUP                           [U] UserInterface
+E: 0023 @ 18:21:10,08/11/23  DEBUG       EVT_PROCESS_STARTUP                           [U] Reporting
+E: 0023 @ 18:21:10,08/11/23  DEBUG       EVT_PROCESS_STARTUP                           [U] ConfigurationManager
+E: 0023 @ 18:21:10,08/11/23  DEBUG       EVT_PROCESS_STARTUP                           [U] Trends
+E: 0023 @ 18:21:10,08/11/23  DEBUG       EVT_PROCESS_STARTUP                           [U] BluetoothComm
+E: 0063 @ 18:21:10,08/11/23  DEBUG       EVT_DEBUG                                     [U] BIST ADCs - 5V: 1678 3.3V: 1130 1.8V: 2037 6V: 2038 BL: 979
+E: 0354 @ 18:23:42,08/11/23  DEBUG       EVT_FIO2_SENSOR_CONNECTED                     [T]
+E: 0063 @ 18:23:43,08/11/23  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 18:23:43,08/11/23  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 1 sec
+E: 0191 @ 18:23:44,08/11/23  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0063 @ 18:23:45,08/11/23  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 18:23:45,08/11/23  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 91 sec
+E: 0139 @ 18:23:54,08/11/23  DEBUG       EVT_THERAPY_STATUS                            [U] Maneuver
+E: 0172 @ 18:23:56,08/11/23  DEBUG       EVT_OUTESTIM_ERR                              [T] C:0 O:1 R:0 M:-5.09
+E: 0168 @ 18:23:56,08/11/23  DEBUG       EVT_MACHFLOW_ERR                              [T] C:0 O:1 R:0 M:260.13
+E: 0139 @ 18:25:16,08/11/23  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0333 @ 18:25:16,08/11/23  TECHNICAL   EVT_CALIBRATION_EVENT                         [FiO2] Calibration Pass
+E: 0063 @ 18:25:16,08/11/23  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Cleared
+E: 0022 @ 18:25:17,08/11/23  DEBUG       EVT_EVENT_REPORTING                           [T] Push missing event EVT_FIO2_SENSOR_NOT_CALIBRATED
+E: 0139 @ 18:25:26,08/11/23  DEBUG       EVT_THERAPY_STATUS                            [U] Maneuver
+E: 0063 @ 18:25:33,08/11/23  DEBUG       EVT_DEBUG                                     [T] CktCalib-CalCompliance-COMPUTE: Compliance= 0.087793
+E: 0333 @ 18:25:33,08/11/23  TECHNICAL   EVT_CALIBRATION_EVENT                         [Circuit] Calibration Compliance Compute Data
+E: 0139 @ 18:25:42,08/11/23  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0139 @ 18:25:42,08/11/23  DEBUG       EVT_THERAPY_STATUS                            [U] Maneuver
+E: 0333 @ 18:25:48,08/11/23  TECHNICAL   EVT_CALIBRATION_EVENT                         [Circuit] Calibration Compliance Pass
+E: 0063 @ 18:25:48,08/11/23  DEBUG       EVT_DEBUG                                     [T] CktCalib-CalCompliance-COMPUTE-Pass: Compliance= 0.104864
+E: 0172 @ 18:25:56,08/11/23  DEBUG       EVT_OUTESTIM_ERR                              [T] C:0 O:49 R:0 M:-5.07
+E: 0168 @ 18:25:56,08/11/23  DEBUG       EVT_MACHFLOW_ERR                              [T] C:0 O:54812 R:0 M:260.10
+E: 0172 @ 18:26:03,08/11/23  DEBUG       EVT_OUTESTIM_ERR                              [T] C:1 O:51 R:0 M:-5.19
+E: 0168 @ 18:26:03,08/11/23  DEBUG       EVT_MACHFLOW_ERR                              [T] C:0 O:55103 R:0 M:260.13
+E: 0139 @ 18:26:06,08/11/23  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0333 @ 18:26:07,08/11/23  TECHNICAL   EVT_CALIBRATION_EVENT                         [Circuit] Calibration Resistance Pass
+E: 0063 @ 18:26:07,08/11/23  DEBUG       EVT_DEBUG                                     [T] CktCalib-COMPUTE-Pass: m_nRt=0.000197, m_nRl=-0.017350
+E: 0192 @ 18:26:20,08/11/23  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 18:26:21,08/11/23  DEBUG       EVT_THERAPY_STATUS                            [U] Ventilator OFF
+E: 0063 @ 18:26:21,08/11/23  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 0
+E: 0042 @ 18:27:00,08/11/23  TECHNICAL   EVT_AC_DISCONNECTED                           [P] AC=9191mV NumUsblSrcs=2 ExtDc=0% Det=98%(163C) Int=99%(176C)
+E: 0024 @ 18:32:02,08/11/23  DEBUG       EVT_PROCESS_SHUTDOWN                          [U] Supervisor shutdown
+E: 0307 @ 18:32:01,08/11/23  DEBUG       EVT_SLEEP                                     [P] Normal Sleep PwrSrc=1 ExtCap=0 DetachCap=97% IntCap=99%
+E: 0307 @ 18:32:01,08/11/23  DEBUG       EVT_SLEEP                                     [P] Normal Sleep ADCExt=0mV ADCDet=15849mV ADCInt=16057mV
+E: 0307 @ 18:32:01,08/11/23  DEBUG       EVT_SLEEP                                     [P] Normal Sleep INT{TS1=177 TS2=-552} DET{TS1=166 TS2=-547}
+E: 0063 @ 18:32:01,08/11/23  DEBUG       EVT_DEBUG                                     [T] RIPC DIS Tpy->UI 0xFFFF 0,0,0 0,0,0,0
+E: 0019 @ 11:53:51,02/16/24  DEBUG       EVT_POWER_UP_SYSTEM_INIT                      [T] Release Build: 1.06.05.00 TPY[R_PP1]1.06.05.00
+E: 0063 @ 11:53:51,02/16/24  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0063 @ 11:53:51,02/16/24  DEBUG       EVT_DEBUG                                     [T] 3v3s1:3288 BusV:20668 3v3s2:3308 3v3s3:3291 5vs1:5001
+E: 0182 @ 11:53:52,02/16/24  DEBUG       EVT_FIO2_ERR                                  [T] C:0 O:1 R:0 M:0.03
+E: 0063 @ 11:53:54,02/16/24  DEBUG       EVT_DEBUG                                     [T] 3v3s4:3305
+E: 0353 @ 11:53:55,02/16/24  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0019 @ 11:53:55,02/16/24  DEBUG       EVT_POWER_UP_SYSTEM_INIT                      [P] Release Build: 1.06.05.00 PWR[R_PP1]1.06.05.00
+E: 0353 @ 11:53:55,02/16/24  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0019 @ 11:53:55,02/16/24  DEBUG       EVT_POWER_UP_SYSTEM_INIT                      [P] Release Build: 1.06.05.00 PWR[R_PP1]1.06.05.00
+E: 0041 @ 11:53:55,02/16/24  TECHNICAL   EVT_AC_CONNECTED                              [P] AC=20476mV NumUsblSrcs=1 ExtDc=0% Det=0%(0C) Int=0%(0C)
+E: 0087 @ 11:53:55,02/16/24  DEBUG       EVT_INTERNAL_BATT_CONNECTED                   [P] PwrSrc=None NumUsableSrcs=1 ADCVoltage(mV)=15947
+E: 0137 @ 11:53:56,02/16/24  DEBUG       EVT_DETACH_BATT_INFO                          [P] SN=210416100468 RSOC=95 FCC=8098 RemCap=7614 Cycles=1 Health=100
+E: 0137 @ 11:53:56,02/16/24  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattV=16121 BattI=0 ChgV=16400 ChgI=2000 Temp=264 MaxErr=1
+E: 0137 @ 11:53:56,02/16/24  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattStat=00c0 ChgStat=000210 SftStat=00000000 OpStat=00020307
+E: 0137 @ 11:53:56,02/16/24  DEBUG       EVT_DETACH_BATT_INFO                          [P] TS1=264 TS2=-547 FW=BD16
+E: 0063 @ 11:53:56,02/16/24  DEBUG       EVT_DEBUG                                     [P] Int Batt Wakeup Time=1sec DetBattV=15857mV IntBattV=15947mV
+E: 0136 @ 11:53:56,02/16/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] SN=201014000168 RSOC=95 FCC=7960 RemCap=7544 Cycles=1 Health=100
+E: 0136 @ 11:53:56,02/16/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattV=16170 BattI=0 ChgV=16400 ChgI=2000 Temp=262 MaxErr=1
+E: 0136 @ 11:53:56,02/16/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattStat=00c0 ChgStat=000210 SftStat=00000000 OpStat=00020307
+E: 0136 @ 11:53:56,02/16/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] TS1=262 TS2=-552 FW=BD16
+E: 0063 @ 11:53:58,02/16/24  DEBUG       EVT_DEBUG                                     [U] Clock time adjusted +16305711 seconds.
+E: 0063 @ 11:53:58,02/16/24  DEBUG       EVT_DEBUG                                     [T] RIPC CON Therapy->UI 0,64,216
+E: 0359 @ 11:53:58,02/16/24  DEBUG       EVT_SW_VERSION                                [T] 1.06.05.00::LINUX[3.14.26.12-svn122863]::UI[release]1.06.05.00::
+E: 0359 @ 11:53:58,02/16/24  DEBUG       EVT_SW_VERSION                                [T] TPY[R_PP1]1.06.05.0::TPYBM[0.00.05]::
+E: 0359 @ 11:53:58,02/16/24  DEBUG       EVT_SW_VERSION                                [T] PWR[R_PP1]1.06.05.00::PWRBM[0.00.05]
+E: 0063 @ 11:54:00,02/16/24  DEBUG       EVT_DEBUG                                     [U] eMMC Ext. CSD, PRE_EOL: 1 TYP_A: 1 TYP_B: 1
+E: 0063 @ 11:54:00,02/16/24  DEBUG       EVT_DEBUG                                     [U] UiBist thread starting
+E: 0350 @ 11:54:00,02/16/24  DEBUG       EVT_SLEEP_EXIT                                [P] Event=0x4168 PwrSrc=3 NumUsableSrcs=3 SuprCap=948mV PwrFail=8842mV
+E: 0350 @ 11:54:00,02/16/24  DEBUG       EVT_SLEEP_EXIT                                [P] AC=20474mV Ext=22mV(0%) Det=15858mV(95%) Int=15951mV(95%)
+E: 0023 @ 11:54:01,02/16/24  DEBUG       EVT_PROCESS_STARTUP                           [U] Supervisor
+E: 0023 @ 11:54:01,02/16/24  DEBUG       EVT_PROCESS_STARTUP                           [U] Dispatcher
+E: 0023 @ 11:54:01,02/16/24  DEBUG       EVT_PROCESS_STARTUP                           [U] RIPC_Peer
+E: 0023 @ 11:54:01,02/16/24  DEBUG       EVT_PROCESS_STARTUP                           [U] DataLogger
+E: 0023 @ 11:54:01,02/16/24  DEBUG       EVT_PROCESS_STARTUP                           [U] CryptoManager
+E: 0023 @ 11:54:01,02/16/24  DEBUG       EVT_PROCESS_STARTUP                           [U] PeripheralManager
+E: 0023 @ 11:54:01,02/16/24  DEBUG       EVT_PROCESS_STARTUP                           [U] AccessoryManager
+E: 0023 @ 11:54:01,02/16/24  DEBUG       EVT_PROCESS_STARTUP                           [U] UserInterface
+E: 0023 @ 11:54:01,02/16/24  DEBUG       EVT_PROCESS_STARTUP                           [U] Reporting
+E: 0023 @ 11:54:01,02/16/24  DEBUG       EVT_PROCESS_STARTUP                           [U] ConfigurationManager
+E: 0023 @ 11:54:01,02/16/24  DEBUG       EVT_PROCESS_STARTUP                           [U] Trends
+E: 0023 @ 11:54:01,02/16/24  DEBUG       EVT_PROCESS_STARTUP                           [U] BluetoothComm
+E: 0063 @ 11:54:01,02/16/24  DEBUG       EVT_DEBUG                                     [U] BIST ADCs - 5V: 1681 3.3V: 1131 1.8V: 2037 6V: 2039 BL: 978
+E: 0063 @ 11:54:02,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 43.00<155.00
+E: 0223 @ 11:54:02,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 80 sec
+E: 0192 @ 11:54:18,02/16/24  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 11:54:18,02/16/24  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0063 @ 11:54:18,02/16/24  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 2
+E: 0192 @ 11:54:47,02/16/24  DEBUG       EVT_KEY_PRESS                                 [T] Audio Pause Key Pressed
+E: 0190 @ 11:54:48,02/16/24  DEBUG       EVT_AUDIO_PAUSE                               [T] Audio Pause Initiated
+E: 0192 @ 11:54:53,02/16/24  DEBUG       EVT_KEY_PRESS                                 [T] Audio Pause Key Pressed
+E: 0190 @ 11:54:54,02/16/24  DEBUG       EVT_AUDIO_PAUSE                               [T] Audio Pause Initiated
+E: 0191 @ 11:55:22,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0063 @ 11:55:32,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 43.00<155.00
+E: 0223 @ 11:55:32,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 7 sec
+E: 0192 @ 11:55:34,02/16/24  DEBUG       EVT_KEY_PRESS                                 [T] Audio Pause Key Pressed
+E: 0190 @ 11:55:35,02/16/24  DEBUG       EVT_AUDIO_PAUSE                               [T] Audio Pause Initiated
+E: 0191 @ 11:55:39,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0063 @ 11:55:49,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 44.00<155.00
+E: 0223 @ 11:55:49,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 12 sec
+E: 0192 @ 11:55:51,02/16/24  DEBUG       EVT_KEY_PRESS                                 [T] Audio Pause Key Pressed
+E: 0190 @ 11:55:51,02/16/24  DEBUG       EVT_AUDIO_PAUSE                               [T] Audio Pause Initiated
+E: 0191 @ 11:56:01,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0063 @ 11:56:11,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 43.00<155.00
+E: 0223 @ 11:56:11,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 9 sec
+E: 0191 @ 11:56:20,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0063 @ 11:56:30,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 44.00<155.00
+E: 0223 @ 11:56:30,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 22 sec
+E: 0241 @ 11:56:44,02/16/24  DEVICE_SETTINGS  EVT_SETTINGS_CHANGE                           [T] Setting Alarm Volume 1 -> 0
+E: 0191 @ 11:56:52,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0063 @ 11:57:02,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 44.00<155.00
+E: 0223 @ 11:57:02,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 90 sec
+E: 0191 @ 11:58:32,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0063 @ 11:58:42,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 44.00<155.00
+E: 0223 @ 11:58:42,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 367 sec
+E: 0139 @ 11:59:24,02/16/24  DEBUG       EVT_THERAPY_STATUS                            [U] Maneuver
+E: 0172 @ 11:59:27,02/16/24  DEBUG       EVT_OUTESTIM_ERR                              [T] C:0 O:1 R:0 M:-5.26
+E: 0168 @ 11:59:27,02/16/24  DEBUG       EVT_MACHFLOW_ERR                              [T] C:0 O:1 R:0 M:260.07
+E: 0139 @ 12:02:37,02/16/24  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0333 @ 12:02:38,02/16/24  TECHNICAL   EVT_CALIBRATION_EVENT                         [FiO2] Calibration Fail
+E: 0063 @ 12:02:39,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:02:39,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 130 sec
+E: 0333 @ 12:02:56,02/16/24  TECHNICAL   EVT_CALIBRATION_EVENT                         [FiO2] Calibration Fail Cancel
+E: 0191 @ 12:04:49,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0063 @ 12:04:50,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:04:50,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 359 sec
+E: 0063 @ 12:04:59,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 44.00<155.00
+E: 0223 @ 12:04:59,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 350 sec
+E: 0139 @ 12:06:20,02/16/24  DEBUG       EVT_THERAPY_STATUS                            [U] Maneuver
+E: 0168 @ 12:06:23,02/16/24  DEBUG       EVT_MACHFLOW_ERR                              [T] C:0 O:77899 R:0 M:260.10
+E: 0139 @ 12:07:18,02/16/24  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0333 @ 12:07:18,02/16/24  TECHNICAL   EVT_CALIBRATION_EVENT                         [FiO2] Calibration Fail
+E: 0333 @ 12:10:48,02/16/24  TECHNICAL   EVT_CALIBRATION_EVENT                         [FiO2] Calibration Fail Cancel
+E: 0191 @ 12:10:49,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0022 @ 12:10:49,02/16/24  DEBUG       EVT_EVENT_REPORTING                           [T] Push missing event EVT_FIO2_SENSOR_NOT_CALIBRATED
+E: 0063 @ 12:10:50,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:10:50,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 855 sec
+E: 0063 @ 12:10:59,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 44.00<155.00
+E: 0223 @ 12:10:59,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 846 sec
+E: 0192 @ 12:13:53,02/16/24  DEBUG       EVT_KEY_PRESS                                 [T] Audio Pause Key Pressed
+E: 0190 @ 12:13:54,02/16/24  DEBUG       EVT_AUDIO_PAUSE                               [T] Audio Pause Initiated
+E: 0191 @ 12:25:05,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0022 @ 12:25:05,02/16/24  DEBUG       EVT_EVENT_REPORTING                           [T] Push missing event EVT_FIO2_SENSOR_NOT_CALIBRATED
+E: 0063 @ 12:25:06,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:25:06,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 14 sec
+E: 0063 @ 12:25:15,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 45.00<155.00
+E: 0223 @ 12:25:15,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 5 sec
+E: 0191 @ 12:25:20,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0022 @ 12:25:20,02/16/24  DEBUG       EVT_EVENT_REPORTING                           [T] Push missing event EVT_FIO2_SENSOR_NOT_CALIBRATED
+E: 0063 @ 12:25:21,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:25:21,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 87 sec
+E: 0063 @ 12:25:30,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 45.00<155.00
+E: 0223 @ 12:25:30,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 78 sec
+E: 0241 @ 12:26:48,02/16/24  DEVICE_SETTINGS  EVT_SETTINGS_CHANGE                           [T] Setting FiO2 1 -> 0
+E: 0022 @ 12:26:48,02/16/24  DEBUG       EVT_EVENT_REPORTING                           [T] Push missing event EVT_FIO2_SENSOR_NOT_CALIBRATED
+E: 0241 @ 12:26:52,02/16/24  DEVICE_SETTINGS  EVT_SETTINGS_CHANGE                           [T] Setting FiO2 0 -> 1
+E: 0063 @ 12:26:53,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:26:53,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 3 sec
+E: 0191 @ 12:26:56,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0022 @ 12:26:56,02/16/24  DEBUG       EVT_EVENT_REPORTING                           [T] Push missing event EVT_FIO2_SENSOR_NOT_CALIBRATED
+E: 0063 @ 12:26:57,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:26:57,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 8 sec
+E: 0063 @ 12:27:02,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 45.00<155.00
+E: 0223 @ 12:27:02,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 3 sec
+E: 0191 @ 12:27:05,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0022 @ 12:27:06,02/16/24  DEBUG       EVT_EVENT_REPORTING                           [T] Push missing event EVT_FIO2_SENSOR_NOT_CALIBRATED
+E: 0063 @ 12:27:06,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:27:06,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 18 sec
+E: 0063 @ 12:27:15,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 45.00<155.00
+E: 0223 @ 12:27:15,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 9 sec
+E: 0241 @ 12:27:24,02/16/24  DEVICE_SETTINGS  EVT_SETTINGS_CHANGE                           [T] Setting FiO2 1 -> 0
+E: 0022 @ 12:27:25,02/16/24  DEBUG       EVT_EVENT_REPORTING                           [T] Push missing event EVT_FIO2_SENSOR_NOT_CALIBRATED
+E: 0241 @ 12:27:32,02/16/24  DEVICE_SETTINGS  EVT_SETTINGS_CHANGE                           [T] Setting FiO2 0 -> 1
+E: 0063 @ 12:27:33,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:27:33,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 3 sec
+E: 0191 @ 12:27:36,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0022 @ 12:27:36,02/16/24  DEBUG       EVT_EVENT_REPORTING                           [T] Push missing event EVT_FIO2_SENSOR_NOT_CALIBRATED
+E: 0063 @ 12:27:37,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:27:37,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 74 sec
+E: 0063 @ 12:27:42,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 46.00<155.00
+E: 0223 @ 12:27:42,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 1020 sec
+E: 0192 @ 12:28:49,02/16/24  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 12:28:51,02/16/24  DEBUG       EVT_THERAPY_STATUS                            [U] Ventilator OFF
+E: 0063 @ 12:28:51,02/16/24  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 0
+E: 0022 @ 12:28:51,02/16/24  DEBUG       EVT_EVENT_REPORTING                           [T] Push missing event EVT_FIO2_SENSOR_NOT_CALIBRATED
+E: 0063 @ 12:28:52,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:28:52,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 648 sec
+E: 0192 @ 12:33:35,02/16/24  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 12:33:35,02/16/24  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0063 @ 12:33:35,02/16/24  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 2
+E: 0192 @ 12:33:44,02/16/24  DEBUG       EVT_KEY_PRESS                                 [T] Audio Pause Key Pressed
+E: 0190 @ 12:33:45,02/16/24  DEBUG       EVT_AUDIO_PAUSE                               [T] Audio Pause Initiated
+E: 0192 @ 12:35:47,02/16/24  DEBUG       EVT_KEY_PRESS                                 [T] Audio Pause Key Pressed
+E: 0190 @ 12:35:47,02/16/24  DEBUG       EVT_AUDIO_PAUSE                               [T] Audio Pause Initiated
+E: 0192 @ 12:37:49,02/16/24  DEBUG       EVT_KEY_PRESS                                 [T] Audio Pause Key Pressed
+E: 0190 @ 12:37:49,02/16/24  DEBUG       EVT_AUDIO_PAUSE                               [T] Audio Pause Initiated
+E: 0192 @ 12:39:37,02/16/24  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 12:39:40,02/16/24  DEBUG       EVT_THERAPY_STATUS                            [U] Ventilator OFF
+E: 0063 @ 12:39:40,02/16/24  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 0
+E: 0063 @ 12:39:41,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:39:41,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 301 sec
+E: 0192 @ 12:43:10,02/16/24  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 12:43:11,02/16/24  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0063 @ 12:43:11,02/16/24  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 2
+E: 0191 @ 12:44:42,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0063 @ 12:44:43,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:44:43,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 23 sec
+E: 0063 @ 12:44:52,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 46.00<155.00
+E: 0223 @ 12:44:52,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 14 sec
+E: 0241 @ 12:45:06,02/16/24  DEVICE_SETTINGS  EVT_SETTINGS_CHANGE                           [T] Setting FiO2 1 -> 0
+E: 0022 @ 12:45:06,02/16/24  DEBUG       EVT_EVENT_REPORTING                           [T] Push missing event EVT_FIO2_SENSOR_NOT_CALIBRATED
+E: 0191 @ 12:45:14,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0241 @ 12:45:17,02/16/24  DEVICE_SETTINGS  EVT_SETTINGS_CHANGE                           [T] Setting FiO2 0 -> 1
+E: 0063 @ 12:45:18,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:45:18,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 11 sec
+E: 0063 @ 12:45:27,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 46.00<155.00
+E: 0223 @ 12:45:27,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 2 sec
+E: 0191 @ 12:45:29,02/16/24  DEBUG       EVT_ALARM_RESET                               [T] Alarm Reset Initiated
+E: 0022 @ 12:45:29,02/16/24  DEBUG       EVT_EVENT_REPORTING                           [T] Push missing event EVT_FIO2_SENSOR_NOT_CALIBRATED
+E: 0063 @ 12:45:30,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:45:30,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 4 sec
+E: 0192 @ 12:45:32,02/16/24  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 12:45:34,02/16/24  DEBUG       EVT_THERAPY_STATUS                            [U] Ventilator OFF
+E: 0063 @ 12:45:34,02/16/24  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 0
+E: 0022 @ 12:45:34,02/16/24  DEBUG       EVT_EVENT_REPORTING                           [T] Push missing event EVT_FIO2_SENSOR_NOT_CALIBRATED
+E: 0063 @ 12:45:35,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 12:45:35,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Detected
+E: 0063 @ 12:45:39,02/16/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 46.00<155.00
+E: 0223 @ 12:45:39,02/16/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Detected
+E: 0042 @ 14:42:38,02/16/24  TECHNICAL   EVT_AC_DISCONNECTED                           [P] AC=9234mV NumUsblSrcs=2 ExtDc=0% Det=100%(298C) Int=100%(283C)
+E: 0024 @ 14:47:39,02/16/24  DEBUG       EVT_PROCESS_SHUTDOWN                          [U] Supervisor shutdown
+E: 0307 @ 14:47:38,02/16/24  DEBUG       EVT_SLEEP                                     [P] Normal Sleep PwrSrc=1 ExtCap=0 DetachCap=100% IntCap=100%
+E: 0307 @ 14:47:38,02/16/24  DEBUG       EVT_SLEEP                                     [P] Normal Sleep ADCExt=0mV ADCDet=15984mV ADCInt=16101mV
+E: 0307 @ 14:47:38,02/16/24  DEBUG       EVT_SLEEP                                     [P] Normal Sleep INT{TS1=284 TS2=-552} DET{TS1=299 TS2=-547}
+E: 0063 @ 14:47:38,02/16/24  DEBUG       EVT_DEBUG                                     [T] RIPC DIS Tpy->UI 0xFFFF 0,0,0 0,0,0,0
+E: 0019 @ 17:58:56,07/31/24  DEBUG       EVT_POWER_UP_SYSTEM_INIT                      [T] Release Build: 1.06.05.00 TPY[R_PP1]1.06.05.00
+E: 0063 @ 17:58:56,07/31/24  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0063 @ 17:58:56,07/31/24  DEBUG       EVT_DEBUG                                     [T] 3v3s1:3288 BusV:16225 3v3s2:3311 3v3s3:3291 5vs1:5001
+E: 0182 @ 17:58:57,07/31/24  DEBUG       EVT_FIO2_ERR                                  [T] C:0 O:1 R:0 M:0.05
+E: 0063 @ 17:58:58,07/31/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 17:58:58,07/31/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 55 sec
+E: 0063 @ 17:58:58,07/31/24  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0063 @ 17:58:59,07/31/24  DEBUG       EVT_DEBUG                                     [T] 3v3s4:3306
+E: 0353 @ 17:59:00,07/31/24  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0019 @ 17:59:00,07/31/24  DEBUG       EVT_POWER_UP_SYSTEM_INIT                      [P] Release Build: 1.06.05.00 PWR[R_PP1]1.06.05.00
+E: 0063 @ 17:59:00,07/31/24  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0353 @ 17:59:00,07/31/24  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0019 @ 17:59:00,07/31/24  DEBUG       EVT_POWER_UP_SYSTEM_INIT                      [P] Release Build: 1.06.05.00 PWR[R_PP1]1.06.05.00
+E: 0087 @ 17:59:00,07/31/24  DEBUG       EVT_INTERNAL_BATT_CONNECTED                   [P] PwrSrc=None NumUsableSrcs=0 ADCVoltage(mV)=15962
+E: 0050 @ 17:59:00,07/31/24  TECHNICAL   EVT_DETACH_BATT_CONNECTED                     [P] PwrSrc=None NumUsableSrcs=0 ADCVoltage(mV)=15924
+E: 0137 @ 17:59:01,07/31/24  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattV=16187 BattI=-296 ChgV=16400 ChgI=2000 Temp=201 MaxErr=1
+E: 0137 @ 17:59:01,07/31/24  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattStat=00c0 ChgStat=000208 SftStat=00000000 OpStat=00020307
+E: 0137 @ 17:59:01,07/31/24  DEBUG       EVT_DETACH_BATT_INFO                          [P] TS1=201 TS2=-547 FW=BD16
+E: 0063 @ 17:59:01,07/31/24  DEBUG       EVT_DEBUG                                     [P] Int Batt Wakeup Time=1sec DetBattV=15925mV IntBattV=15957mV
+E: 0136 @ 17:59:01,07/31/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] SN=201014000168 RSOC=100 FCC=7763 RemCap=7687 Cycles=1 Health=100
+E: 0136 @ 17:59:01,07/31/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattV=16181 BattI=-448 ChgV=16400 ChgI=2000 Temp=204 MaxErr=1
+E: 0136 @ 17:59:01,07/31/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattStat=00c0 ChgStat=000208 SftStat=00000000 OpStat=00020307
+E: 0136 @ 17:59:01,07/31/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] TS1=204 TS2=-552 FW=BD16
+E: 0063 @ 17:59:03,07/31/24  DEBUG       EVT_DEBUG                                     [U] Clock time adjusted +14353881 seconds.
+E: 0063 @ 17:59:03,07/31/24  DEBUG       EVT_DEBUG                                     [T] RIPC CON Therapy->UI 0,48,196
+E: 0359 @ 17:59:03,07/31/24  DEBUG       EVT_SW_VERSION                                [T] 1.06.05.00::LINUX[3.14.26.12-svn122863]::UI[release]1.06.05.00::
+E: 0359 @ 17:59:03,07/31/24  DEBUG       EVT_SW_VERSION                                [T] TPY[R_PP1]1.06.05.0::TPYBM[0.00.05]::
+E: 0359 @ 17:59:03,07/31/24  DEBUG       EVT_SW_VERSION                                [T] PWR[R_PP1]1.06.05.00::PWRBM[0.00.05]
+E: 0139 @ 17:59:04,07/31/24  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0063 @ 17:59:05,07/31/24  DEBUG       EVT_DEBUG                                     [U] eMMC Ext. CSD, PRE_EOL: 1 TYP_A: 1 TYP_B: 1
+E: 0063 @ 17:59:05,07/31/24  DEBUG       EVT_DEBUG                                     [U] UiBist thread starting
+E: 0350 @ 17:59:05,07/31/24  DEBUG       EVT_SLEEP_EXIT                                [P] Event=0x4168 PwrSrc=1 NumUsableSrcs=2 SuprCap=910mV PwrFail=8833mV
+E: 0350 @ 17:59:05,07/31/24  DEBUG       EVT_SLEEP_EXIT                                [P] AC=41mV Ext=0mV(0%) Det=15919mV(99%) Int=15954mV(100%)
+E: 0077 @ 17:59:05,07/31/24  TECHNICAL   EVT_START_ON_BATTERY                          [P] Src=DetBatt Cap=99 Volt=15919 Temp=202 S=Norm_Batt
+E: 0023 @ 17:59:06,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] Supervisor
+E: 0023 @ 17:59:06,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] Dispatcher
+E: 0023 @ 17:59:06,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] RIPC_Peer
+E: 0023 @ 17:59:06,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] DataLogger
+E: 0023 @ 17:59:06,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] CryptoManager
+E: 0023 @ 17:59:06,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] PeripheralManager
+E: 0023 @ 17:59:06,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] AccessoryManager
+E: 0023 @ 17:59:06,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] UserInterface
+E: 0023 @ 17:59:06,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] Reporting
+E: 0023 @ 17:59:06,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] ConfigurationManager
+E: 0023 @ 17:59:06,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] Trends
+E: 0023 @ 17:59:06,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] BluetoothComm
+E: 0063 @ 17:59:06,07/31/24  DEBUG       EVT_DEBUG                                     [U] BIST ADCs - 5V: 1679 3.3V: 1130 1.8V: 2037 6V: 2037 BL: 978
+E: 0063 @ 17:59:07,07/31/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 77.00<155.00
+E: 0223 @ 17:59:07,07/31/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 46 sec
+E: 0317 @ 17:59:28,07/31/24  TECHNICAL   EVT_SW_UPGRADE_FAILURE                        [Failure] during None : ERR_INIT_MANIFEST(22)
+E: 0298 @ 17:59:51,07/31/24  TECHNICAL   EVT_USB_CONNECTED                             [U] Bus: 1 Vid: 058f Pid: 6387
+E: 0139 @ 17:59:52,07/31/24  DEBUG       EVT_THERAPY_STATUS                            [U] SW Upgrade
+E: 0063 @ 17:59:53,07/31/24  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 6
+E: 0063 @ 17:59:54,07/31/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0063 @ 18:00:03,07/31/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 89.00<155.00
+E: 0223 @ 18:00:03,07/31/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Detected
+E: 0346 @ 18:01:25,07/31/24  TECHNICAL   EVT_SW_UPGRADE_STARTED                        [Upgrading] to version 1.06.10.00
+E: 0020 @ 18:03:26,07/31/24  DEBUG       EVT_SOFTWARE_SYSTEM_INITIALIZATION            [T] Release Build: 1.06.10.00 TPY[R_PP1]1.06.10.00
+E: 0063 @ 18:03:26,07/31/24  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0063 @ 18:03:26,07/31/24  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0063 @ 18:03:26,07/31/24  DEBUG       EVT_DEBUG                                     [T] RIPC CON Therapy->UI 0,16,16
+E: 0359 @ 18:03:26,07/31/24  DEBUG       EVT_SW_VERSION                                [T] 1.06.10.00::LINUX[3.14.26.12-svn122863]::UI[release]1.06.05.00::
+E: 0359 @ 18:03:26,07/31/24  DEBUG       EVT_SW_VERSION                                [T] TPY[R_PP1]1.06.10.0::TPYBM[0.00.05]::
+E: 0359 @ 18:03:26,07/31/24  DEBUG       EVT_SW_VERSION                                [T] PWRBM[0.00.05]
+E: 0063 @ 18:03:26,07/31/24  DEBUG       EVT_DEBUG                                     [T] 3v3s1:3285 BusV:16176 3v3s2:3308 3v3s3:3295 5vs1:5001
+E: 0182 @ 18:03:27,07/31/24  DEBUG       EVT_FIO2_ERR                                  [T] C:0 O:1 R:0 M:0.07
+E: 0063 @ 18:03:28,07/31/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 18:03:28,07/31/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Detected
+E: 0063 @ 18:03:29,07/31/24  DEBUG       EVT_DEBUG                                     [T] 3v3s4:3310
+E: 0353 @ 18:03:30,07/31/24  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0353 @ 18:03:30,07/31/24  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0185 @ 18:03:30,07/31/24  DEBUG       EVT_EXT_POWER_UP_SYSTEM_INIT                  [P] Release Build: 1.06.10.00 PWR[R_PP1]1.06.10.00
+E: 0185 @ 18:03:30,07/31/24  DEBUG       EVT_EXT_POWER_UP_SYSTEM_INIT                  [P] Release Build: 1.06.10.00 PWR[R_PP1]1.06.10.00
+E: 0087 @ 18:03:30,07/31/24  DEBUG       EVT_INTERNAL_BATT_CONNECTED                   [P] PwrSrc=None NumUsableSrcs=0 ADCVoltage(mV)=15934
+E: 0050 @ 18:03:30,07/31/24  TECHNICAL   EVT_DETACH_BATT_CONNECTED                     [P] PwrSrc=None NumUsableSrcs=0 ADCVoltage(mV)=15898
+E: 0137 @ 18:03:31,07/31/24  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattV=16161 BattI=-212 ChgV=16400 ChgI=2000 Temp=203 MaxErr=1
+E: 0137 @ 18:03:31,07/31/24  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattStat=00c0 ChgStat=000208 SftStat=00000000 OpStat=00000307
+E: 0137 @ 18:03:31,07/31/24  DEBUG       EVT_DETACH_BATT_INFO                          [P] TS1=203 TS2=-547 FW=BD16
+E: 0063 @ 18:03:31,07/31/24  DEBUG       EVT_DEBUG                                     [P] Int Batt Wakeup Time=1sec DetBattV=15908mV IntBattV=15937mV
+E: 0136 @ 18:03:31,07/31/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] SN=201014000168 RSOC=99 FCC=7763 RemCap=7666 Cycles=1 Health=100
+E: 0136 @ 18:03:31,07/31/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattV=16161 BattI=-381 ChgV=16400 ChgI=2000 Temp=205 MaxErr=1
+E: 0136 @ 18:03:31,07/31/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattStat=00c0 ChgStat=000208 SftStat=00000000 OpStat=00000307
+E: 0136 @ 18:03:31,07/31/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] TS1=205 TS2=-552 FW=BD16
+E: 0350 @ 18:03:34,07/31/24  DEBUG       EVT_SLEEP_EXIT                                [P] Event=0x4168 PwrSrc=1 NumUsableSrcs=2 SuprCap=4218mV PwrFail=8831mV
+E: 0350 @ 18:03:34,07/31/24  DEBUG       EVT_SLEEP_EXIT                                [P] AC=275mV Ext=0mV(0%) Det=15908mV(99%) Int=15945mV(99%)
+E: 0063 @ 18:03:37,07/31/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 104.00<155.00
+E: 0223 @ 18:03:37,07/31/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Detected
+E: 0347 @ 18:03:46,07/31/24  TECHNICAL   EVT_SW_UPGRADE_PERFORMED                      [Successfully] upgraded
+E: 0299 @ 18:03:49,07/31/24  TECHNICAL   EVT_USB_DISCONNECTED                          [U] Bus: 1 Vid: 058f Pid: 6387
+E: 0020 @ 18:03:52,07/31/24  DEBUG       EVT_SOFTWARE_SYSTEM_INITIALIZATION            [T] Release Build: 1.06.10.00 TPY[R_PP1]1.06.10.00
+E: 0063 @ 18:03:52,07/31/24  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0063 @ 18:03:52,07/31/24  DEBUG       EVT_DEBUG                                     [T] 3v3s1:3291 BusV:16176 3v3s2:3308 3v3s3:3293 5vs1:4997
+E: 0182 @ 18:03:53,07/31/24  DEBUG       EVT_FIO2_ERR                                  [T] C:0 O:1 R:0 M:0.07
+E: 0063 @ 18:03:54,07/31/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 18:03:54,07/31/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 30 sec
+E: 0063 @ 18:03:54,07/31/24  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0063 @ 18:03:55,07/31/24  DEBUG       EVT_DEBUG                                     [T] 3v3s4:3306
+E: 0353 @ 18:03:56,07/31/24  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0185 @ 18:03:56,07/31/24  DEBUG       EVT_EXT_POWER_UP_SYSTEM_INIT                  [P] Release Build: 1.06.10.00 PWR[R_PP1]1.06.10.00
+E: 0063 @ 18:03:56,07/31/24  DEBUG       EVT_DEBUG                                     [T] play_speaker() = PLAY_STATUS_COM_FAILURE
+E: 0353 @ 18:03:56,07/31/24  DEBUG       EVT_CALCULATE_POWER_OFFSET                    [P]
+E: 0185 @ 18:03:56,07/31/24  DEBUG       EVT_EXT_POWER_UP_SYSTEM_INIT                  [P] Release Build: 1.06.10.00 PWR[R_PP1]1.06.10.00
+E: 0087 @ 18:03:56,07/31/24  DEBUG       EVT_INTERNAL_BATT_CONNECTED                   [P] PwrSrc=None NumUsableSrcs=0 ADCVoltage(mV)=15923
+E: 0050 @ 18:03:56,07/31/24  TECHNICAL   EVT_DETACH_BATT_CONNECTED                     [P] PwrSrc=None NumUsableSrcs=0 ADCVoltage(mV)=15885
+E: 0137 @ 18:03:57,07/31/24  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattV=16153 BattI=-220 ChgV=16400 ChgI=2000 Temp=203 MaxErr=1
+E: 0137 @ 18:03:57,07/31/24  DEBUG       EVT_DETACH_BATT_INFO                          [P] BattStat=00c0 ChgStat=000208 SftStat=00000000 OpStat=00000307
+E: 0137 @ 18:03:57,07/31/24  DEBUG       EVT_DETACH_BATT_INFO                          [P] TS1=203 TS2=-547 FW=BD16
+E: 0063 @ 18:03:57,07/31/24  DEBUG       EVT_DEBUG                                     [P] Int Batt Wakeup Time=1sec DetBattV=15893mV IntBattV=15931mV
+E: 0136 @ 18:03:57,07/31/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] SN=201014000168 RSOC=99 FCC=7763 RemCap=7664 Cycles=1 Health=100
+E: 0136 @ 18:03:57,07/31/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattV=16157 BattI=-448 ChgV=16400 ChgI=2000 Temp=205 MaxErr=1
+E: 0136 @ 18:03:57,07/31/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] BattStat=00c0 ChgStat=000208 SftStat=00000000 OpStat=00000307
+E: 0136 @ 18:03:57,07/31/24  DEBUG       EVT_INTERNAL_BATT_INFO                        [P] TS1=205 TS2=-552 FW=BD16
+E: 0063 @ 18:04:00,07/31/24  DEBUG       EVT_DEBUG                                     [U] Clock time adjusted +9 seconds.
+E: 0063 @ 18:04:00,07/31/24  DEBUG       EVT_DEBUG                                     [T] RIPC CON Therapy->UI 0,464,332
+E: 0359 @ 18:04:00,07/31/24  DEBUG       EVT_SW_VERSION                                [T] 1.06.10.00::LINUX[3.14.26.13-svn126580]::UI[release]1.06.10.00::
+E: 0359 @ 18:04:00,07/31/24  DEBUG       EVT_SW_VERSION                                [T] TPY[R_PP1]1.06.10.0::TPYBM[0.00.05]::
+E: 0359 @ 18:04:00,07/31/24  DEBUG       EVT_SW_VERSION                                [T] PWR[R_PP1]1.06.10.00::PWRBM[0.00.05]
+E: 0139 @ 18:04:01,07/31/24  DEBUG       EVT_THERAPY_STATUS                            [U] Standby
+E: 0350 @ 18:04:01,07/31/24  DEBUG       EVT_SLEEP_EXIT                                [P] Event=0x4168 PwrSrc=1 NumUsableSrcs=2 SuprCap=4241mV PwrFail=8831mV
+E: 0350 @ 18:04:01,07/31/24  DEBUG       EVT_SLEEP_EXIT                                [P] AC=299mV Ext=0mV(0%) Det=15894mV(99%) Int=15928mV(99%)
+E: 0077 @ 18:04:01,07/31/24  TECHNICAL   EVT_START_ON_BATTERY                          [P] Src=DetBatt Cap=99 Volt=15894 Temp=203 S=Norm_Batt
+E: 0063 @ 18:04:02,07/31/24  DEBUG       EVT_DEBUG                                     [U] eMMC Ext. CSD, PRE_EOL: 1 TYP_A: 1 TYP_B: 1
+E: 0063 @ 18:04:02,07/31/24  DEBUG       EVT_DEBUG                                     [U] UiBist thread starting
+E: 0023 @ 18:04:03,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] Supervisor
+E: 0023 @ 18:04:03,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] Dispatcher
+E: 0023 @ 18:04:03,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] RIPC_Peer
+E: 0023 @ 18:04:03,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] DataLogger
+E: 0023 @ 18:04:03,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] CryptoManager
+E: 0023 @ 18:04:03,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] PeripheralManager
+E: 0023 @ 18:04:03,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] AccessoryManager
+E: 0023 @ 18:04:03,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] UserInterface
+E: 0023 @ 18:04:03,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] Reporting
+E: 0023 @ 18:04:03,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] ConfigurationManager
+E: 0023 @ 18:04:03,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] Trends
+E: 0063 @ 18:04:03,07/31/24  DEBUG       EVT_DEBUG                                     [U] BIST ADCs - 5V: 1682 3.3V: 1131 1.8V: 2037 6V: 2038 BL: 977
+E: 0063 @ 18:04:03,07/31/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_RAILED_LOW LO 104.00<155.00
+E: 0223 @ 18:04:03,07/31/24  TECHNICAL   EVT_FIO2_SENSOR_RAILED_LOW                    [T] EVT_FIO2_SENSOR_RAILED_LOW Ended after 32 sec
+E: 0023 @ 18:04:04,07/31/24  DEBUG       EVT_PROCESS_STARTUP                           [U] BluetoothComm
+E: 0192 @ 18:04:22,07/31/24  DEBUG       EVT_KEY_PRESS                                 [T] Start/Stop Key Pressed
+E: 0139 @ 18:04:23,07/31/24  DEBUG       EVT_THERAPY_STATUS                            [U] Ventilator OFF
+E: 0063 @ 18:04:24,07/31/24  DEBUG       EVT_DEBUG                                     [T] UI System State Req: 0
+E: 0063 @ 18:04:25,07/31/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+E: 0338 @ 18:04:25,07/31/24  TECHNICAL   EVT_FIO2_SENSOR_NOT_CALIBRATED                [T] EVT_FIO2_SENSOR_NOT_CALIBRATED Ended after 10 sec
+E: 0139 @ 18:04:35,07/31/24  DEBUG       EVT_THERAPY_STATUS                            [U] Ventilator OFF
+E: 0108 @ 18:04:35,07/31/24  DEBUG       EVT_CALIBRATION_MODE                          [T] ENTER CAL MODE
+E: 0233 @ 18:04:35,07/31/24  PRESET      EVT_PRESET_CHANGE                             [T] Preset 1 High Tidal Volume Alarm 225 -> 32767
+E: 0233 @ 18:04:35,07/31/24  PRESET      EVT_PRESET_CHANGE                             [T] Preset 1 Low Tidal Volume Alarm 90 -> 32767
+E: 0233 @ 18:04:35,07/31/24  PRESET      EVT_PRESET_CHANGE                             [T] Preset 1 High Minute Vent Alarm 300 -> 32767
+E: 0233 @ 18:04:36,07/31/24  PRESET      EVT_PRESET_CHANGE                             [T] Preset 1 Low Minute Vent Alarm 10 -> 32767
+E: 0233 @ 18:04:36,07/31/24  PRESET      EVT_PRESET_CHANGE                             [T] Preset 1 High Breath Rate Alarm 80 -> 32767
+E: 0233 @ 18:04:36,07/31/24  PRESET      EVT_PRESET_CHANGE                             [T] Preset 1 Low Breath Rate Alarm 4 -> 32767
+E: 0063 @ 18:04:36,07/31/24  DEBUG       EVT_DEBUG                                     [T] EVT_FIO2_SENSOR_NOT_CALIBRATED STUCK at 0.00
+
+----------------------------------------------------------------------------------------------------------
+SUMMARY OF LOG ID 19 (Error Log with Text Descriptions)
+----------------------------------------------------------------------------------------------------------
+
+COUNT     ERROR CODE     DESCRIPTION
+   12     E: 0019     EVT_POWER_UP_SYSTEM_INIT
+    4     E: 0020     EVT_SOFTWARE_SYSTEM_INITIALIZATION
+   13     E: 0022     EVT_EVENT_REPORTING
+   71     E: 0023     EVT_PROCESS_STARTUP
+    3     E: 0024     EVT_PROCESS_SHUTDOWN
+    5     E: 0041     EVT_AC_CONNECTED
+    3     E: 0042     EVT_AC_DISCONNECTED
+    3     E: 0050     EVT_DETACH_BATT_CONNECTED
+    4     E: 0058     EVT_LI_ION_BATT_SHUTDOWN
+  146     E: 0063     EVT_DEBUG
+    2     E: 0077     EVT_START_ON_BATTERY
+    8     E: 0087     EVT_INTERNAL_BATT_CONNECTED
+    6     E: 0108     EVT_CALIBRATION_MODE
+   32     E: 0136     EVT_INTERNAL_BATT_INFO
+   29     E: 0137     EVT_DETACH_BATT_INFO
+   40     E: 0139     EVT_THERAPY_STATUS
+    8     E: 0168     EVT_MACHFLOW_ERR
+    4     E: 0172     EVT_OUTESTIM_ERR
+    1     E: 0174     EVT_PILRESS_ERR
+    1     E: 0175     EVT_PPROX_ERR
+    4     E: 0182     EVT_FIO2_ERR
+    7     E: 0185     EVT_EXT_POWER_UP_SYSTEM_INIT
+    9     E: 0190     EVT_AUDIO_PAUSE
+   20     E: 0191     EVT_ALARM_RESET
+   25     E: 0192     EVT_KEY_PRESS
+   21     E: 0223     EVT_FIO2_SENSOR_RAILED_LOW
+    8     E: 0233     EVT_PRESET_CHANGE
+    9     E: 0241     EVT_SETTINGS_CHANGE
+    3     E: 0298     EVT_USB_CONNECTED
+    2     E: 0299     EVT_USB_DISCONNECTED
+    9     E: 0307     EVT_SLEEP
+    1     E: 0317     EVT_SW_UPGRADE_FAILURE
+   10     E: 0333     EVT_CALIBRATION_EVENT
+   22     E: 0338     EVT_FIO2_SENSOR_NOT_CALIBRATED
+    2     E: 0346     EVT_SW_UPGRADE_STARTED
+    2     E: 0347     EVT_SW_UPGRADE_PERFORMED
+   16     E: 0350     EVT_SLEEP_EXIT
+   15     E: 0353     EVT_CALCULATE_POWER_OFFSET
+    1     E: 0354     EVT_FIO2_SENSOR_CONNECTED
+   24     E: 0359     EVT_SW_VERSION
+ 

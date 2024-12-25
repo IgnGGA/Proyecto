@@ -1,0 +1,27 @@
+Read:Blower Hours
+9723,9
+Read:Operational Hours
+8559,8
+Read:Real Time Clock
+09:04:14 , 08/30/2024
+Read:Charger Limit
+100,0
+Read:Detach.Batt Info
+Capacity=99%,V=16401mV,I=387mA,T=21C,SH=94%,CC=15,CF=0,ME=1,S/N=00241E72,BD=10/18/2019
+Read:Intern.Batt Info
+Capacity=99%,V=16385mV,I=645mA,T=22C,SH=87%,CC=3,CF=0,ME=1,S/N=0022929C,BD=07/11/2019,SM=Standby
+Read:Device HW-SW Info
+HW rev.=0,SW rev.=14.2.05, CPLD rev.=12, Boot rev=4.0  [March 30, 2009]
+Read:Device Cal Info
+Cal SW rev:24.0.0.0-Service, Date of Cal: 03:59:08 , 06/24/2024
+Trilogy Sensor Board Table: Valid=TRUE, Active=TRUE
+Trilogy Device Table: Valid=TRUE, Active=TRUE
+Trilogy Proximal Pressure Table: Valid=TRUE, Active=TRUE
+Trilogy Differential Pressure Table: Valid=TRUE, Active=TRUE
+Trilogy Charger Settings Table: Valid=TRUE, Active=TRUE
+Trilogy Ethernet MAC Table: Valid=FALSE, Active=FALSE
+
+BrowseUUTLogs
+
+Read:Device Info
+S/N=TV019111110,M/N=1040000,Name=Trilogy 202, International

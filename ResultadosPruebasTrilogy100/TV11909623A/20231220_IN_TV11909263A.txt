@@ -1,0 +1,23 @@
+Read:Blower Hours
+4863,9
+Read:Operational Hours
+4863,4
+Read:Real Time Clock
+03:53:17 , 12/20/2023
+Read:Charger Limit
+100,0
+Read:Detach.Batt Info
+Capacity=17%,V=14672mV,I=314mA,T=24C,SH=93%,CC=13,CF=0,ME=1,S/N=0025770E,BD=02/11/2022
+Capacity=6%,V=14620mV,I=1698mA,T=24C,SH=95%,CC=11,CF=0,ME=1,S/N=002286ED,BD=07/03/2019,SM=Standby
+Read:Device Info
+S/N=TV11909263A,M/N=LA1054096
+Read:Device HW-SW Info
+HW rev.=0,SW rev.=14.2.05, CPLD rev.=12, Boot rev=4.0  [March 30, 2009
+Read:Device Cal Info
+Cal SW rev:20.1.0.0-Service, Date of Cal: 09:38:42 , 10/05/2023
+Trilogy Sensor Board Table: Valid=TRUE, Active=TRUE
+Trilogy Device Table: Valid=TRUE, Active=TRUE
+Trilogy Proximal Pressure Table: Valid=TRUE, Active=TRUE
+Trilogy Differential Pressure Table: Valid=FALSE, Active=FALSE
+Trilogy Charger Settings Table: Valid=TRUE, Active=TRUE
+Trilogy Ethernet MAC Table: Valid=FALSE, Active=FALSE

@@ -1,0 +1,28 @@
+Read:Blower Hours
+18339,2
+Read:Operational Hours
+18339,2
+Read:Real Time Clock
+01:42:00 , 07/03/2024
+Setup:Real Time Clock
+02:20:14 , 07/03/2024
+Read:Charger Limit
+100,0
+Write:Charger Limit
+75,0
+Read:Detach.Batt Info
+Capacity=94%,V=15942mV,I=0mA,T=19C,SH=87%,CC=32,CF=0,ME=2,S/N=0023E15C,BD=07/15/2019
+Read:Intern.Batt Info
+Capacity=90%,V=15852mV,I=0mA,T=20C,SH=100%,CC=3,CF=0,ME=1,S/N=00229D30,BD=08/19/2019,SM=Standby
+Read:Device Info
+S/N=GV120010247,M/N=1058180B,Name=Garbin  Ventilator BT
+Read:Device HW-SW Info
+HW rev.=0,SW rev.=14.2.04, CPLD rev.=12, Boot rev=4.0  [March 30, 2009]
+Read:Device Cal Info
+Cal SW rev:4.1.0.0-42_081-Factory, Date of Cal: 09:32:40 , 01/03/2020
+Trilogy Sensor Board Table: Valid=TRUE, Active=TRUE
+Trilogy Device Table: Valid=TRUE, Active=TRUE
+Trilogy Proximal Pressure Table: Valid=TRUE, Active=TRUE
+Trilogy Differential Pressure Table: Valid=FALSE, Active=FALSE
+Trilogy Charger Settings Table: Valid=TRUE, Active=TRUE
+Trilogy Ethernet MAC Table: Valid=FALSE, Active=FALSE

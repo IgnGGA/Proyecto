@@ -1,0 +1,6 @@
+Andover Alianza Médica S. A. es una empresa que se desempeña en el rubro de la comercialización de equipos médicos. Ofrece como servicio post-venta el servicio técnico de los equipos que se encuentran bajo su representación.
+Los equipos presentan pertenecen a una marca, tienen un numero de modelo y nuero de serie, los equipos pertenecen a un cliente, que dentro de sus datos cuenta con un RUT, nombre, dirección.
+Al presentarse las fallas los clientes se comunican con la empresa e indican el motivo aparente de la falla para ser retirado, en ese momento se genera una orden de servicio, y un numero de actividad, donde nos es interesante las actividades de diagnostico y reparación.
+Los equipos pueden encontrarse en estado 'Diagnostico' o 'Reparación', no obstante en el estado 'Diagnostico' los equipos pueden encontrarse como 'operativos', 'inoperativos' o en 'baja de equipo'.
+Los equipos que se encuentran en proceso de reparación se encuentran vinculado a una serie de repuestos asignados para pasar del estado 'inoperativo' del diagnostico, a 'operativo' después de la reparación (aun así el estado post reparación puede ser cualquiera de estos tres).
+el proceso de diagnostico y reparación puede iterar nuevamente si el estado del equipo es inoperativo, pero en caso contrario finaliza.
