@@ -11,9 +11,8 @@ dim=len(text)
 while True:
     try:
         for a in range (dim):
-            print(len(text))
-            if text[a]=='' or text[a]==' ':
-                text.pop(a)
+            if text[-a]=='' or text[-a]==' ':
+                text.pop(-a)
         break
     except IndexError:
         b=b+1
