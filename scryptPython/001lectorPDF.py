@@ -25,7 +25,13 @@ def LectorOSSTT(rutaArchivos):
         dataOSSTT.append(text)
     return dataOSSTT
 
-rutasArchivos=rutasOSTT('OrdenesDeServicioTécnicoAndover/')
-print(f'Tipo de dato:\t{type(rutasArchivos)}\nTamaño del dato:\t{len(rutasArchivos)}')
-datos=LectorOSSTT(rutasArchivos)
-print(f'Tipo de dato:\t{type(datos)}\nTamaño del dato:\t{len(datos)}')
+def genDataFrame():
+    rutasArchivos=rutasOSTT('OrdenesDeServicioTécnicoAndover/')
+    datos=LectorOSSTT(rutasArchivos)
+    os.chdir('BaseDeDatos/')
+    with open ('DataFrameOrdenesDeServicio','w') as archivo:
+        for i in datos:
+            archivo.write(i)
+            archivo.close()
+
+genDataFrame()
