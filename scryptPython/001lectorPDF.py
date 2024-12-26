@@ -16,4 +16,5 @@ def rutasOSTT(directorio):
     return rutas
 
 rutasArchivos=rutasOSTT('OrdenesDeServicioTécnicoAndover/')
-print(rutasArchivos[3])
+print(rutasArchivos)
+print(f'Tipo de dato:\t{type(rutasArchivos)}\nTamaño del dato:\t{len(rutasArchivos)}')
