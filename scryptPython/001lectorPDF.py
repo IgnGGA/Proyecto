@@ -30,8 +30,7 @@ def genDataFrame():
     datos=LectorOSSTT(rutasArchivos)
     os.chdir('BaseDeDatos/')
     with open ('DataFrameOrdenesDeServicio','w') as archivo:
-        for i in datos:
-            archivo.write(i)
-            archivo.close()
-
+        for i in range(len(datos)):
+            for j in range(len(datos[i])):
+                archivo.write(datos[i][j]+'\n')
 genDataFrame()
